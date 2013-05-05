@@ -1,0 +1,2 @@
+graft pyramid_jinja2_alchemy
+include *.txt *.ini *.rst

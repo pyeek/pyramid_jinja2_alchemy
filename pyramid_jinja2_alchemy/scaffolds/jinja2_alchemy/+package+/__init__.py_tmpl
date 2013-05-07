@@ -1,3 +1,9 @@
+"""
+    **{{package}}**
+
+    {{package}} is a project generated to use jinja2 and sqlalchemy
+"""
+
 from pyramid.config import Configurator
 from sqlalchemy import engine_from_config
 
